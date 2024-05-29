@@ -12,9 +12,24 @@ I am a web developer in South Korea. I am interested in many things, including w
 ### skills
  - used as the main 
 <div>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-61DAFB?style=flat&logo=React&logoColor=black"/>
+ <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E??style=flatr&logo=JavaScript&logoColor=black">
+ <img src="https://img.shields.io/badge/REACT-61DAFB??style=flatr&logo=React&logoColor=black">
+ <img src="https://img.shields.io/badge/JAVA-b8860b??style=flatr&logo=Java&logoColor=white">
+ <img src="https://img.shields.io/badge/MYSQL-4479A1??style=flatr&logo=MySQL&logoColor=white">
+ <img src="https://img.shields.io/badge/NODEJS-339933??style=flatr&logo=Node.js&logoColor=white">  
 </div>
+
+<br/>
+
+- used at least once
+<div>
+  <img src="https://img.shields.io/badge/ORACLE-ff0000??style=flatr&logo=Node.js&logoColor=white">  
+  <img src="https://img.shields.io/badge/NEXTJS-000000??style=flatr&logo=Node.js&logoColor=white">  
+  <img src="https://img.shields.io/badge/TYPESCRIPT-339933??style=flatr&logo=Node.js&logoColor=white">  
+  <img src="https://img.shields.io/badge/PYTHON-ff6347??style=flatr&logo=Node.js&logoColor=white">  
+  <img src="https://img.shields.io/badge/C-6a5acd??style=flatr&logo=Node.js&logoColor=white">  
+</div>
+  
 
 ### Experience
 

@@ -9,7 +9,7 @@ I am a web developer in South Korea. I am interested in many things, including w
 <br/>
 
 
-### skills
+### Skills
  - used as the main 
 <div>
  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E??style=flatr&logo=JavaScript&logoColor=black">

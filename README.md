@@ -1,3 +1,3 @@
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghkstjr12&layout=compact&theme=cobalt)](https://github.com/ghkstjr12/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghkstjr12&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghkstjr12&layout=compact&theme=cobalt&hide_title=false&card_height=200)](https://github.com/ghkstjr12/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghkstjr12&layout=compact)

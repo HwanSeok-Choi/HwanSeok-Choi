@@ -9,7 +9,7 @@ I am a web developer in South Korea. I am interested in many things, including w
 <br/>
 
 
-### Skills
+### 📒 Skills
  - used as the main 
 <div>
  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E??style=flatr&logo=JavaScript&logoColor=black">
@@ -23,15 +23,17 @@ I am a web developer in South Korea. I am interested in many things, including w
 
 - used at least once
 <div>
-  <img src="https://img.shields.io/badge/ORACLE-ff0000??style=flatr&logo=Node.js&logoColor=white">  
-  <img src="https://img.shields.io/badge/NEXTJS-000000??style=flatr&logo=Node.js&logoColor=white">  
+  <img src="https://img.shields.io/badge/ORACLE-ff0000??style=flatr&logo=Oracle&logoColor=white">  
+  <img src="https://img.shields.io/badge/NEXTJS-000000??style=flatr&logo=Next.js&logoColor=white">  
   <img src="https://img.shields.io/badge/TYPESCRIPT-339933??style=flatr&logo=Node.js&logoColor=white">  
-  <img src="https://img.shields.io/badge/PYTHON-ff6347??style=flatr&logo=Node.js&logoColor=white">  
-  <img src="https://img.shields.io/badge/C-6a5acd??style=flatr&logo=Node.js&logoColor=white">  
+  <img src="https://img.shields.io/badge/PYTHON-ff6347??style=flatr&logo=Python&logoColor=white">  
+  <img src="https://img.shields.io/badge/C-BDBDBD??style=flatr&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-B7F0B1??style=flatr&logo=Kotlin&logoColor=white">  
 </div>
-  
 
-### Experience
+
+
+### 💫 Experience
 
 
 

@@ -34,7 +34,7 @@ I am a web developer in South Korea. I am interested in many things, including w
 
 
 ### 💫 Experience
-
+[Team5] (https://twd.can-ai.org/reports/98/) | Generative AI Internship (2023.06 ~ 2023.07)
 
 
 

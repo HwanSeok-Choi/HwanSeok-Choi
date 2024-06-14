@@ -29,6 +29,8 @@ I am a web developer in South Korea. I am interested in many things, including w
   <img src="https://img.shields.io/badge/PYTHON-ff6347??style=flatr&logo=Python&logoColor=white">  
   <img src="https://img.shields.io/badge/C-BDBDBD??style=flatr&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-B7F0B1??style=flatr&logo=Kotlin&logoColor=white">  
+  <img src="https://img.shields.io/badge/Linux-ff6333??style=flatr&logo=Linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-0055FF??style=flatr&logo=Docker&logoColor=white"> 
 </div>
 
 

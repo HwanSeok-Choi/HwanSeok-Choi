@@ -40,11 +40,11 @@ I am a web developer in South Korea. I am interested in many things, including w
 <br>
 [ACORN](http://경로당.홈페이지.한국:8080/project) | JAVA web developer training course (2023.12 ~ 2024.06)
 <br>
+[capston]
 
 
 
 
-    
 
 
 
